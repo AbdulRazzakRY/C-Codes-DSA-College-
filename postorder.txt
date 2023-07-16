@@ -1,0 +1,22 @@
+5
+11
+14
+12
+8
+0
+27
+27
+31
+28
+24
+19
+36
+34
+17
+42
+41
+45
+45
+41
+Time taken for inorder is 8.000000 sec
+Time taken for inorder is 0.000000 sec
